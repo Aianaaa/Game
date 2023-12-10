@@ -1,3 +1,3 @@
 # Game
 ## Result you can see here
-[Slider]( https://aianaaa.github.io/Slider/)
+[Game Effect]( https://aianaaa.github.io/Game/)
